@@ -1,0 +1,16 @@
+{
+ "type": "content",
+ "modid": "configlibbake",
+ "name": "Configlib Bake (Better Ruins)",
+ "version": "0.1.0",
+ "authors": [
+  "Nick"
+ ],
+ "side": "Universal",
+ "requiredOnClient": false,
+ "description": "Static JsonPatches with Nick's Better Ruins configlib values (structures x3, villages x2, megastructure min distance 3000). Do not run together with configlib.",
+ "dependencies": {
+  "game": "",
+  "betterruins": ""
+ }
+}

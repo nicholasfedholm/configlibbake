@@ -1,0 +1,14 @@
+[
+ {
+  "op": "replace",
+  "path": "/chanceMultiplier",
+  "value": 0.16,
+  "file": "betterruins:worldgen/villages.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ }
+]

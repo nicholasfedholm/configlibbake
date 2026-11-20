@@ -1,0 +1,350 @@
+[
+ {
+  "op": "replace",
+  "path": "/chanceMultiplier",
+  "value": 0.9,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/0/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/1/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/2/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/3/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/4/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/5/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/6/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/7/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/8/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/9/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/10/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/11/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/12/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/13/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/14/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/15/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/16/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/17/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/18/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/19/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/20/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/10/MinSpawnDistance",
+  "value": 2500,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/11/MinSpawnDistance",
+  "value": 2500,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/12/MinSpawnDistance",
+  "value": 2500,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/19/MinSpawnDistance",
+  "value": 2500,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/20/MinSpawnDistance",
+  "value": 2500,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/129/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ },
+ {
+  "op": "replace",
+  "path": "/structures/130/minGroupDistance",
+  "value": 3000,
+  "file": "betterruins:worldgen/structures.json",
+  "side": "Server",
+  "dependsOn": [
+   {
+    "modid": "betterruins"
+   }
+  ]
+ }
+]
